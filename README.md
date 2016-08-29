@@ -12,13 +12,13 @@ Forked from gyandeeps/gruntify-eslint to maintain eslint v2 requirement because 
 If you haven't used [grunt][] before, be sure to check out the [Getting Started][] guide, as it explains how to create a [gruntfile][Getting Started] as well as install and use grunt plugins. Once you're familiar with that process, install this plugin with this command:
 
 ```bash
-$ npm install --save-dev gruntify-eslint
+$ npm install --save-dev gruntify-eslint-v2
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks("gruntify-eslint");
+grunt.loadNpmTasks("gruntify-eslint-v2");
 ```
 
 [grunt]: http://gruntjs.com
@@ -38,7 +38,7 @@ grunt.initConfig({
 	}
 });
 
-grunt.loadNpmTasks("gruntify-eslint");
+grunt.loadNpmTasks("gruntify-eslint-v2");
 grunt.registerTask("default", ["eslint"]);
 ```
 
@@ -55,7 +55,7 @@ grunt.initConfig({
 	}
 });
 
-grunt.loadNpmTasks("gruntify-eslint");
+grunt.loadNpmTasks("gruntify-eslint-v2");
 grunt.registerTask("default", ["eslint"]);
 ```
 
@@ -80,7 +80,7 @@ grunt.config.init({
   }
 });
 
-grunt.loadNpmTasks("gruntify-eslint");
+grunt.loadNpmTasks("gruntify-eslint-v2");
 grunt.registerTask("default", ["eslint"]);
 ```
 
@@ -96,7 +96,7 @@ grunt.initConfig({
 	}
 });
 
-grunt.loadNpmTasks("gruntify-eslint");
+grunt.loadNpmTasks("gruntify-eslint-v2");
 grunt.registerTask("default", ["eslint"]);
 ```
 

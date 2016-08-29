@@ -3,7 +3,9 @@
 gruntify-eslint
 ====================
 
-Grunt plugin for Eslint
+Grunt plugin for Eslint v2.
+
+Forked from gyandeeps/gruntify-eslint to maintain eslint v2 requirement because of newest node version on Ubuntu 12.04 LTS.
 
 ## Getting Started
 

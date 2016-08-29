@@ -1,18 +1,18 @@
 {
-  "name": "gruntify-eslint",
-  "version": "3.0.0",
-  "description": "Validate files with ESLint",
+  "name": "gruntify-eslint-v2",
+  "version": "3.1.0",
+  "description": "Validate files with ESLint v2",
   "license": "MIT",
-  "repository": "https://github.com/gyandeeps/gruntify-eslint",
+  "repository": "https://github.com/Skinner927/gruntify-eslint-v2",
   "bugs": {
-    "url": "https://github.com/gyandeeps/gruntify-eslint/issues"
+    "url": "https://github.com/Skinner927/gruntify-eslint-v2/issues"
   },
   "author": {
-    "name": "Gyandeep Singh",
-    "email": "gyandeeps@gmail.com"
+    "name": "Dennis Skinner",
+    "email": "skinner927@gmail.com"
   },
   "dependencies": {
-    "eslint": "^3.0.0"
+    "eslint": "^2.1.0"
   },
   "devDependencies": {
     "shelljs": "~0.3.0"

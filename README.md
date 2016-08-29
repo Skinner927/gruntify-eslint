@@ -1,4 +1,4 @@
-[![NPM version](https://badge.fury.io/js/gruntify-eslint.svg)](http://badge.fury.io/js/gruntify-eslint)
+[![npm version](https://badge.fury.io/js/gruntify-eslint-v2.svg)](https://badge.fury.io/js/gruntify-eslint-v2)
 
 gruntify-eslint
 ====================
